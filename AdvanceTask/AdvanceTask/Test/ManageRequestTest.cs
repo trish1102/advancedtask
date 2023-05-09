@@ -1,0 +1,6 @@
+﻿
+[TestFixture]
+    internal class ManageRequestTest
+    {
+    }
+
